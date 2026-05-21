@@ -203,7 +203,7 @@ Current benchmark results:
 ---
 
 **#Images**
-![alt text](<images/Screenshot 2026-05-21 193854.png>)
+![alt text](https://github.com/pranay0026/LegalRag/blob/ef095e580ad2b8fbfc5d3ed6f4af0ca45f5c7813/Screenshot%202026-05-21%20193854.png)
 
 
 # Author
