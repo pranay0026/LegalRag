@@ -204,6 +204,11 @@ Current benchmark results:
 
 **#Images**
 ![alt text](https://github.com/pranay0026/LegalRag/blob/ef095e580ad2b8fbfc5d3ed6f4af0ca45f5c7813/Screenshot%202026-05-21%20193854.png)
+![alt_text](https://github.com/pranay0026/LegalRag/blob/f89e56ef917589de10bacaec1cefc23647b3c7d5/Screenshot%202026-05-21%20194741.png)
+![alt_text](https://github.com/pranay0026/LegalRag/blob/f89e56ef917589de10bacaec1cefc23647b3c7d5/Screenshot%202026-05-21%20194829.png)
+![alt_text](https://github.com/pranay0026/LegalRag/blob/f89e56ef917589de10bacaec1cefc23647b3c7d5/Screenshot%202026-05-21%20194846.png)
+![alt_text](https://github.com/pranay0026/LegalRag/blob/f89e56ef917589de10bacaec1cefc23647b3c7d5/Screenshot%202026-05-21%20194904.png)
+![alt_text](https://github.com/pranay0026/LegalRag/blob/f89e56ef917589de10bacaec1cefc23647b3c7d5/Screenshot%202026-05-21%20203008.png)
 
 
 # Author
